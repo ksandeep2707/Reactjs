@@ -37,7 +37,7 @@ const NavBar = ()=>
     return (
         <>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-   <span id='brand'  onClick={() => Up1("App1")}><i class="far fa-snowflake" style={{fontSize:"40px"}}></i>&nbsp;&nbsp;NETF</span>
+   <span id='brand'  onClick={() => Up1("App1")}><i class="far fa-snowflake" style={{fontSize:"40px"}}></i>&nbsp;&nbsp;NETFIX</span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
