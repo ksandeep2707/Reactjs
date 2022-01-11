@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Reactjs/static/css/main.17dd8366.css",
+    "main.js": "/Reactjs/static/js/main.3eecea2e.js",
+    "static/media/home.jpg": "/Reactjs/static/media/home.c73687806e53c085bee9.jpg",
+    "static/media/4.jpg": "/Reactjs/static/media/4.c045f5ee42457342b2bd.jpg",
+    "static/media/img2.jpg": "/Reactjs/static/media/img2.5e8e61e598cb0c3b7860.jpg",
+    "static/media/cal.jpg": "/Reactjs/static/media/cal.7ab3c07133e9eb19a21f.jpg",
+    "static/media/2.jpg": "/Reactjs/static/media/2.29a02afac7d06da532cf.jpg",
+    "static/media/img3.jpg": "/Reactjs/static/media/img3.3870b5aa534e2f9ae56e.jpg",
+    "static/media/5.jpg": "/Reactjs/static/media/5.1ceeadc1159c6d76772d.jpg",
+    "static/media/1.png": "/Reactjs/static/media/1.834fc0aa297641a085c8.png",
+    "static/media/3.jpg": "/Reactjs/static/media/3.432ee22a72567ffd883b.jpg",
+    "static/media/Technology-Bold.ttf": "/Reactjs/static/media/Technology-Bold.8cdd2cfe2ab96f416aff.ttf",
+    "static/media/img1.jpg": "/Reactjs/static/media/img1.ede4b36a5b876b563f09.jpg",
+    "index.html": "/Reactjs/index.html",
+    "main.17dd8366.css.map": "/Reactjs/static/css/main.17dd8366.css.map",
+    "main.3eecea2e.js.map": "/Reactjs/static/js/main.3eecea2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17dd8366.css",
+    "static/js/main.3eecea2e.js"
+  ]
+}
