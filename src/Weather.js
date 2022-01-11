@@ -1,8 +1,6 @@
 import React, {useState} from 'react';
-import ReactDOM from 'react-dom';
 import './index.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import Nav from './NavBar.js';
+//import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 //import Typewriter from 'J:\react js\greeting\node_modules\typewriter-effect'
 import Typewriter from "typewriter-effect";
 
